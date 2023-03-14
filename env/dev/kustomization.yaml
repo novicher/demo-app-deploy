@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/novicher/demo-app
-  newTag: latest
+  newTag: 8d22995ec7ba46aba40fd839d224c86729988ffd
