@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/novicher/demo-app
+  newTag: 3756b5f31a5a48839d43acd6c49a4db57adf0438
